@@ -1,0 +1,7 @@
+[Append this]
+Match User user_name
+  ForceCommand /usr/lcao/bin/program.bin
+  DisableForwarding yes
+  X11Forwarding no
+  PermitTunnel no
+  PermitTTY yes
